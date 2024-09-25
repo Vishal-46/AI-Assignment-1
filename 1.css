@@ -1,0 +1,117 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #0a0a18;
+}
+header, footer {
+    background-color: #285d52fa;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+main {
+    margin: 20px 0;
+}
+section {
+    margin-bottom: 20px;
+}
+
+body {
+    
+    background-image: url();
+    
+
+header {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.fun-fact {
+    font-size: 1.5rem; 
+    background-color: #053a4636; 
+    color: #4c0631; 
+    display: none; 
+    text-align: center;
+    font-weight: bold; 
+    border-radius: 5px; 
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.flowchart {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #010b15;
+    border-radius: 8px;
+    background-color: #285d52fa;
+    max-width: 600px;
+    position: relative;
+}
+
+.agent-type {
+    text-align: center;
+}
+
+.sub-agent-type {
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #343a40;
+    border-radius: 5px;
+    background-color: #e9ecef;
+}
+.footer {
+    background: linear-gradient(to right, #285d52fa, #285d52fa);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.footer p {
+    margin: 10px 0;
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.icon {
+    color: #fbfbfb;
+    text-decoration: none;
+    margin: 0 10px;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+.icon:hover {
+    color: #02181c; 
+}
+
+h2 {
+    border-bottom: 2px solid #e2e2e2;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #343a40;
+}
+
+p {
+    color: #555;
+}
+.ftp {
+    font-display: swap; 
+    font-size: larger;
+    color: rgb(255, 255, 255); 
+}
