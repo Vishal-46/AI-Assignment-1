@@ -1,2 +1,2 @@
 # AI-Assignment-1
-subject assignment (Artificial intelligence and Data Science)
+Subject assignment (Artificial intelligence and Data Science)
